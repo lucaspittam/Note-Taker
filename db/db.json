@@ -1,14 +1,24 @@
 {
-    "db": [
-        {
-            "title":"Test Title",
-            "text":"Test text", 
-            "id": "test_id"
-        },
-        {
-            "title":"Test Title 2",
-            "text":"Test text 2", 
-            "id": "test_id2"
-        }
-    ]
+  "db": [
+    {
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "test_id"
+    },
+    {
+      "title": "Test Title 2",
+      "text": "Test text 2",
+      "id": "test_id2"
+    },
+    {
+      "title": "New Note",
+      "text": "New note to test POST",
+      "id": "86zzd9okdkcjiq4"
+    },
+    {
+      "title": "sdfsdfsdfsdf",
+      "text": "sdfsdfsdfsdf",
+      "id": "2knubz8l2z170qz"
+    }
+  ]
 }
